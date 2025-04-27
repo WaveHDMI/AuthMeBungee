@@ -1,4 +1,4 @@
-name: ${project.name}
+name: AuthMeBungee
 main: fr.xephi.authmebungee.AuthMeBungee
-version: ${project.version}
+version: ${version}
 author: AuthMeTeam
