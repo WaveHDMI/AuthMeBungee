@@ -5,9 +5,9 @@ This plugin acts like a bridge between your bukkit servers and your BungeeCord i
 **AutoLogin:** If you have AuthMe on multiple servers, you can enable autoLogin option that allow you to switch between your servers without having to perform login command again.
 
 ## Support
-- [GitHub issue tracker](https://github.com/AuthMe/AuthMeBungee/issues)
-- [Spigot page](https://www.spigotmc.org/resources/authmebungee.50219/)
-- [Discord](https://discord.gg/Vn9eCyE)
+- [GitHub issue tracker](https://github.com/WaveHDMI/AuthMeBungee/issues)
+- [Official Spigot page](https://www.spigotmc.org/resources/authmebungee.50219/)
+- [Official AuthMe Discord](https://discord.gg/Vn9eCyE)
 
 ## Requirements
 
