@@ -15,7 +15,7 @@ description = "BungeeCord addon for AuthMe!"
 plugins {
     `java-library`
     `maven-publish`
-    id("com.gradleup.shadow") version "8.3.6"
+    id("com.gradleup.shadow") version "8.3.1"
 }
 
 java {
@@ -60,12 +60,6 @@ tasks.shadowJar {
     // Files exclusion
     // Some jar index or cryptographic signature files are already excluded by default by the Shadow Plugin
     exclude("META-INF/**")
-}
-
-publishing {
-    publications.create<MavenPublication>("shadow") {
-        from(components["shadow"])
-    }
 }
 
 repositories {
