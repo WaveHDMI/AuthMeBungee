@@ -1,4 +1,5 @@
 # AuthMeBungee
+[![Build Status](https://github.com/WaveHDMI/AuthMeBungee/actions/workflows/gradle.yml/badge.svg)](https://github.com/WaveHDMI/AuthMeBungee/actions?query=branch%3Amaster)
 
 This plugin acts like a bridge between your bukkit servers and your BungeeCord instance. To explain simple how it works, bukkit-side plugins send a message to bungee-side on user authentication. If bungee-side doesn't receive this message, the player won't be able to talk in chat and to perform commands, including BungeeCord commands.
 
